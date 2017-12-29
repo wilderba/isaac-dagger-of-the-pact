@@ -185,7 +185,7 @@ function RewardAllies()
 		AddTempAlly()
 		AddTempAlly()
 	else
-		for i = 1, 12 do
+		for i = 1, 10 do
 			player:AddBlueSpider(player.Position)
 		end
 		player:AddBlueFlies(8, player.Position, player)
