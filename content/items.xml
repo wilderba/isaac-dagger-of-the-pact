@@ -1,0 +1,7 @@
+<items gfxroot="gfx/items/" version="1">
+	<active name="Dagger of the Pact" description="He demands blood." gfx="energizer.png" maxcharges="0"/>
+	<active name=" Dagger of the Pact " description="He demands blood." gfx="overclocker.png" maxcharges="0"/>
+	<active name="  Dagger of the Pact  " description="He demands blood." gfx="upgrade.png" maxcharges="0"/>
+	<active name="   Dagger of the Pact   " description="He demands blood." gfx="battery_spare.png" maxcharges="0"/>
+	<active name="    Dagger of the Pact    " description="He demands blood." gfx="battery_powerpack.png" maxcharges="0"/>
+</items>
